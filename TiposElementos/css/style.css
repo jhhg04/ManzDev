@@ -1,0 +1,18 @@
+body {
+  color: green; /* Color de texto */
+}
+
+body {
+  border-width: 2px;
+  border-style: solid;
+  border-color: red;
+}
+body {
+  border-width: 2px;
+  border-style: solid;
+  border-color: red;
+}
+
+div {
+  border: inherit;
+}
